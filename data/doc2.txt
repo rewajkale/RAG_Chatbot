@@ -1,0 +1,18 @@
+Natural Language Processing
+
+Natural Language Processing (NLP) is a field of artificial intelligence that focuses on enabling computers to understand, interpret, and generate human language.
+
+Key NLP Tasks
+
+1. Text Classification
+Text classification involves assigning predefined categories to text data. Examples include spam detection and sentiment analysis.
+
+2. Named Entity Recognition
+Named Entity Recognition (NER) identifies entities such as names, locations, organizations, and dates in text.
+
+3. Machine Translation
+Machine translation automatically converts text from one language to another. Examples include English to French translation systems.
+
+Applications of NLP
+
+NLP is used in chatbots, virtual assistants, search engines, recommendation systems, and automatic summarization tools.

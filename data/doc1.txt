@@ -1,0 +1,20 @@
+Machine Learning Overview
+
+Machine learning is a branch of artificial intelligence that focuses on building systems that can learn from data. Instead of being explicitly programmed to perform a task, machine learning models improve their performance as they are exposed to more data.
+
+Types of Machine Learning
+
+There are three main types of machine learning:
+
+1. Supervised Learning
+Supervised learning involves training a model on labeled data. The model learns to map input data to the correct output. Common supervised learning algorithms include linear regression, logistic regression, and support vector machines.
+
+2. Unsupervised Learning
+Unsupervised learning works with unlabeled data. The goal is to discover patterns or structure in the data. Clustering and dimensionality reduction are common techniques used in unsupervised learning.
+
+3. Reinforcement Learning
+Reinforcement learning involves training an agent to make decisions by interacting with an environment. The agent receives rewards or penalties based on its actions and learns to maximize cumulative rewards.
+
+Applications of Machine Learning
+
+Machine learning is widely used in various industries including healthcare, finance, e-commerce, and autonomous vehicles.
